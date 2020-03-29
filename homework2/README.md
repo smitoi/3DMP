@@ -9,7 +9,7 @@ I downloaded a model (a puzzle from the TV show Westworld) and made it two-faced
 ![ww-sliced.PNG](img/ww-sliced.PNG)
 
 
-### 2. Model model A1, A2, A3, A4
+### 2. Model A1, A2, A3, A4
 
 A1 - A4:
 
