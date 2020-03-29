@@ -20,8 +20,8 @@ I tried to make one of those mushrooms from Mario.
 ### 4. Slice both models in Prusa Slicer using different ways to find out the optimal time for printing
 
 #### The Mushroom in Prusa (~1h30m to print):
-![Mushroom-Prusa.PNG](img/Mushroom-Prusa.PNG]
+![Mushroom-Prusa.PNG](img/Mushroom-Prusa.PNG)
 
 #### Vase in Prusa:
-![vase-prusa.PNG](img/vase-prusa.PNG]
+![vase-prusa.PNG](img/vase-prusa.PNG)
  
