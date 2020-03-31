@@ -11,6 +11,11 @@ I downloaded a model (a puzzle from the TV show Westworld) and made it two-faced
 
 ### 2. Model model A1, A2, A3, A4
 
+![A1.png](img/A1.png)
+![A1.png](img/A2.jpg)
+![A1.png](img/A3.jpg)
+![A1.png](img/A4.jpg)
+
 A1 - A4:
 
 ![A1-4.PNG](img/A1-4.PNG)
