@@ -6,4 +6,4 @@
 * #### [Homework 1](https://github.com/smitoi/3DMP/tree/master/homework1)
 * #### [Homework 2](https://github.com/smitoi/3DMP/tree/master/homework2)
 * #### [Homework 3](https://github.com/smitoi/3DMP/tree/master/homework3)
-* #### [Homework 3](https://github.com/smitoi/3DMP/tree/master/homework4)
+* #### [Homework 4](https://github.com/smitoi/3DMP/tree/master/homework4)
