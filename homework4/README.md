@@ -10,9 +10,6 @@
 
 
 #### The homework, to design a Scotch Yoke Mechanism:
-##### The first attempt:
-<img src="img/homework.gif" alt="scotch-yoke-mech" width="600"/>
-
-##### The second attempt (WIP):
+<img src="img/cooler-homework.gif" alt="scoth-yoke-mech" width="600"/>
 
 ### 2. Create a scene with a twisted column on a polygon surface (WIP)
