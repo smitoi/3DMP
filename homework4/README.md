@@ -17,6 +17,6 @@
 #### First attempt, with a twisted path ('column-one.f3d'):
 <img src="img/column-one.png" alt="first-column" width="600"/>
 
-####S econd attempt, tried to make it look realistic ('column-two.f3d'):
+#### Second attempt, tried to make it look realistic ('column-two.f3d'):
 <img src="img/column-two.png" alt="second-column" width="600"/>
 
