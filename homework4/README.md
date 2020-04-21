@@ -14,9 +14,9 @@
 
 ### 2. Create a scene with a twisted column on a polygon surface:
 
-####First attempt, with a twisted path ('column-one.f3d'):
+#### First attempt, with a twisted path ('column-one.f3d'):
 <img src="img/column-one.png" alt="first-column" width="600"/>
 
-####Second attempt, tried to make it look realistic ('column-two.f3d'):
-<img src="img/column-two.jpg" alt="first-column" width="600"/>
+####S econd attempt, tried to make it look realistic ('column-two.f3d'):
+<img src="img/column-two.png" alt="second-column" width="600"/>
 
