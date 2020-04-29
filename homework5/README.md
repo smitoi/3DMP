@@ -23,4 +23,5 @@
 
 ### BONUS: Design the evolution door following 2-7 steps from the homework tasks.
 
-To be uploaded...
+I tried to make the door, but it doesn't actually move (I played with the joints, but it just glitches)
+<img src"imgs/door.png" alt="door_png" width="600"/>
