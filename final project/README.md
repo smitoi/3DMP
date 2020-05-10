@@ -1,5 +1,11 @@
 # Final Project - Rapid Prototyping 
 
+## Final Project - Water Drop Mechanism
+
+The end result should look like this:
+
+<img src="https://i.pinimg.com/originals/3d/ac/03/3dac03ae6b8c56dc646b68e1c5d1bf3a.gif" alt="gif" width="600">
+
 ### 1. Checkpoint:
 
 * 1. Divide your project into components
