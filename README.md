@@ -9,6 +9,7 @@
 * #### [Homework 4](https://github.com/smitoi/3DMP/tree/master/homework4)
 * #### [Homework 5](https://github.com/smitoi/3DMP/tree/master/homework5)
 * #### [Homework 6](https://github.com/smitoi/3DMP/tree/master/final%20project/reference%20-%20homework%206)
+* #### [Final Project - Water Drop Mechanism](https://github.com/smitoi/3DMP/tree/master/final%20project%20-%20water%20drop%20mechanism)
 
 ### Useful links:
 * https://www.thingiverse.com/
