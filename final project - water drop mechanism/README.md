@@ -1,19 +1,19 @@
-# Final Project - Rapid Prototyping 
+# Final Project - Water Drop Mechanism (Rapid Prototyping) 
 
-## Final Project - Water Drop Mechanism
+For my final project I had to model a Water Drop Mechanism using what I learned during the semester. The end resuls should look and work like [this (Water Experiment)](https://www.youtube.com/watch?v=ZqzjAmPFND8) or [this (A Drop of Water)](https://www.youtube.com/watch?v=7Hv85T7mbnE). 
 
-The end result should look like this:
+Below are gifs that I recorded from Fusion, some rendered photos and videos, the mechanism in Prusa Slicer, the checkpoints that I had to reach, with my explanations added near the end, and the resources that I used to make this project.
 
-<img src="https://i.pinimg.com/originals/3d/ac/03/3dac03ae6b8c56dc646b68e1c5d1bf3a.gif" alt="gif" width="600">
+---
+## Photos: TOBEUPLOADED
 
+---
 ### 1. Checkpoint (water-drop-old.f3d):
 
 * 1. Divide your project into components ✔️
 * 2. Start sketching and creating the objects ✔️
 
 ### 2. Checkpoint (water-drop-mech.f3d):
-#### I tried to model it only using the canvases that I made in homework 6. It didn't go well. While trying to add joints I figured out that I should start over and measure the objects before I create them.
-#### Even with measurements made on paper, I had some problems with the circles (fixed them quickly using some tricks).
 
 * 1. Finish creating all objects ✔️
 * 2. Add working joints 🔘
@@ -29,3 +29,14 @@ The end result should look like this:
 * 6. Add joints, motion links and joints limits. 🔘
 * 7. Create motion studies. 🔘
 * 8. The mechanism needs to work properly! 🔘
+
+---
+#### Explanations: 
+* For checkpoint 2 I tried to model it only using the canvases that I made in homework 6. While trying to add joints I figured out that I should start over and measure the objects before I create them. Even with measurements in Fusion, and some calculations made on paper, I had some problems with the circles (fixed them quickly using some tricks with the sketches).
+
+---
+### Resources used:
+* 3DMP Courses & Labs from Ana & Corina
+* [Reddit](http://reddit.com/r/fusion360)
+* [draw.io](draw.io) to draw the meachanism
+* [this](https://www.youtube.com/watch?v=ZqzjAmPFND8) video as a reference
