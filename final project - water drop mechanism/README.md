@@ -2,12 +2,52 @@
 
 For my final project I had to model a Water Drop Mechanism using what I learned during the semester. The end resuls should look and work like [this (Water Experiment)](https://www.youtube.com/watch?v=ZqzjAmPFND8) or [this (A Drop of Water)](https://www.youtube.com/watch?v=7Hv85T7mbnE). 
 
-Below are gifs that I recorded from Fusion, some rendered photos and videos, the mechanism in Prusa Slicer, the checkpoints that I had to reach, with my explanations added near the end, and the resources that I used to make this project.
+There are 3 .f3d files in the f3ds folder:
+* water-drop-old.f3d - attempt at making the mechanism, there is an explanation at the bottom of the file.
+* water-drop-mech.f3d - the actual mechanism that I used for most of the pictures below
+* water-drop-mech-style.f3d - you can see this version below (I made it just to give it a better appereance)
+
+The .stl files can be found in the stls folder. They are made from the water-drop-mech.f3d version, because the pretty version would have been harder to 3D print.
+
+Below are gifs that I recorded from Fusion, some rendered photos, the mechanism in Prusa Slicer, the checkpoints that I had to reach, with my explanations added near the end, and the resources that I used to make this project.
 
 ---
-## Photos: TOBEUPLOADED
+# Media:
+
+## The sketches used to make the mechanism:
+<img src="images/side-view.png" alt="images/side-view.png" width="600"/>
+<img src="images/front-view.png" alt="images/front-view.png" width="600"/>
+<img src="images/top-view.png" alt="images/top-view.png" width="600"/>
+
+
+## The mechanism rendered:
+<img src="images/water-drop-mechanism.png" alt="images/water-drop-mechanism.png" width="600"/>
+
+###[Here](https://drive.google.com/file/d/19ArKW46BkY4mra6hSQcbtP5tn_80H58U/view?usp=sharing) you can see the turntable render because I couldn't figure out how to add a video into the readme.
+
+### The same turntable render is found in the 'images' folder.
+
+
+## The mechanism working in Fusion 360 (slow, then fast):
+<img src="images/gif.gif" alt="images/gif.gif" width="600"/>
+
+### The lag is because I used Contact Sets.
+
+
+## Another pics that show the work that chieved the checkpoints below (names, joints, joints limits, motion study, and components):
+<img src="images/first.png" alt="images/first.png"/>
+<img src="images/second.png" alt="images/second.png"/>
+<img src="images/third.png" alt="images/third.png"/>
+<img src="images/fourth.png" alt="images/fourth.png"/>
+<img src="images/fifth.png" alt="images/fifth.png"/>
+
+## And at last, the pretty version of this mechanism:
+<img src="images/water-drop-pretty.png" alt="images/water-drop-pretty.png" width="600"/>
 
 ---
+
+# Checkpoints:
+
 ### 1. Checkpoint (water-drop-old.f3d):
 
 * 1. Divide your project into components ✔️
@@ -16,7 +56,7 @@ Below are gifs that I recorded from Fusion, some rendered photos and videos, the
 ### 2. Checkpoint (water-drop-mech.f3d):
 
 * 1. Finish creating all objects ✔️
-* 2. Add working joints 🔘
+* 2. Add working joints ✔️
 * 3. Add appearance ✔️
 
 ### 3. Checkpoint:
@@ -24,15 +64,20 @@ Below are gifs that I recorded from Fusion, some rendered photos and videos, the
 * 1. Start the design from the canvases created by yourself for Homework no. 6. ✔️
 * 2. Save multiple versions and suggestively name them. ✔️
 * 3. Properly use and name bodies, components, joints, construction, planes, etc. ✔️
-* 4. Render the object applying appearance and scene. 🔘
-* 5. Save the renderings as photos and as a turntable Render. 🔘
-* 6. Add joints, motion links and joints limits. 🔘
-* 7. Create motion studies. 🔘
-* 8. The mechanism needs to work properly! 🔘
+* 4. Render the object applying appearance and scene. ✔️
+* 5. Save the renderings as photos and as a turntable Render. ✔️
+* 6. Add joints, motion links and joints limits. ✔️
+* 7. Create motion studies. ✔️
+* 8. The mechanism needs to work properly! ✔️
+
+### Bonus:
+* I kept in mind this should be 3D printed (an explanation below).
+* Made a pretty version of the mechanism (water-drop-mech-style.f3d).
 
 ---
 #### Explanations: 
 * For checkpoint 2 I tried to model it only using the canvases that I made in homework 6. While trying to add joints I figured out that I should start over and measure the objects before I create them. Even with measurements in Fusion, and some calculations made on paper, I had some problems with the circles (fixed them quickly using some tricks with the sketches).
+* There is a slight difference in height between some of the objects in the .f3d project. That's because Fusion and I had some troubles with the Contact Sets, and I had to make them smaller. It doesn't affect the mechanism.
 
 ---
 ### Resources used:
