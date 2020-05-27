@@ -2,7 +2,11 @@
 
 'Seeing how important it is to understand the meaning of Rapid Prototyping, the Final Project consists of creating a prototype of a specific mechanism.'
 
-For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Fustion 360.
+For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Fustion 360. 
+
+The idea behind the mechanism can be summarised using this gif:
+
+<img src="https://i.imgur.com/bXBNhVZ.gif" alt="mechanism gif">
 
 There are 3 .f3d files in the f3ds folder:
 * water-drop-old.f3d - attempt at making the mechanism, discontinued since the second checkpoint
@@ -20,11 +24,19 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 * 1. Divide your project into components ✔️
 * 2. Start sketching and creating the objects ✔️
 
+<img src="images/water-drop-mechanism-1.png" alt="images/water-drop-mechanism-1.png" width="600"/>
+
+The turntable render is found in the 'images' folder as a .mp4.
+
 ### 2. Checkpoint (water-drop-mech.f3d):
 
 * 1. Finish creating all objects ✔️
 * 2. Add working joints ✔️
 * 3. Add appearance ✔️
+
+<img src="images/water-drop-mechanism-2.png" alt="images/water-drop-mechanism-2.png" width="600"/>
+
+The turntable render is found in the 'images' folder as a .mp4.
 
 ### 3. Checkpoint:
 
@@ -37,6 +49,11 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 * 7. Create motion studies. ✔️
 * 8. The mechanism needs to work properly! ✔️
 
+
+<img src="images/water-drop-mechanism.png" alt="images/water-drop-mechanism.png" width="600"/>
+
+The turntable render is found in the 'images' folder as a .mp4.
+
 ### Bonus:
 * I kept in mind this should be 3D printed. It can be printed and assembled without too much trouble.
 * Made the mechanism in a way that makes it easy for the user to modify the movement of the top circles.
@@ -48,12 +65,6 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 <img src="images/side-view.png" alt="images/side-view.png" width="600"/>
 <img src="images/front-view.png" alt="images/front-view.png" width="600"/>
 <img src="images/top-view.png" alt="images/top-view.png" width="600"/>
-
-
-## The basic mechanism rendered:
-<img src="images/water-drop-mechanism.png" alt="images/water-drop-mechanism.png" width="600"/>
-
-#### The turntable render is found in the 'images' folder as a .mp4.
 
 
 ## The mechanism working in Fusion 360:
@@ -84,4 +95,5 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 * [YouTube - Water Experiment](https://www.youtube.com/watch?v=ZqzjAmPFND8) 
 * [YouTube - A Drop of Water](https://www.youtube.com/watch?v=7Hv85T7mbnE)
 * [Thingverse](https://www.thingiverse.com/thing:2542655)
+* [GrabCad](https://grabcad.com/library/water-drop-effect-1)
 * [draw.io](draw.io) 
