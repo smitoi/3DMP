@@ -44,7 +44,10 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 
 # Media:
 
-## The sketches used to make the mechanism can be found [here](https://github.com/smitoi/3DMP/tree/master/final%20project/reference%20-%20homework%206)
+## The sketches used to make the mechanism:
+<img src="images/side-view.png" alt="images/side-view.png" width="600"/>
+<img src="images/front-view.png" alt="images/front-view.png" width="600"/>
+<img src="images/top-view.png" alt="images/top-view.png" width="600"/>
 
 
 ## The basic mechanism rendered:
@@ -63,7 +66,7 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 <img src="images/prusa2.png" alt="prusa2.png" width="600"/>
 <img src="images/prusa3.png" alt="prusa3.png" width="600"/>
 
-## And at last, the polished version of this mechanism (I used metallic paint for appearance):
+## The polished version of this mechanism (I used metallic paint for appearance):
 <img src="images/water-drop-pretty.png" alt="images/water-drop-pretty.png" width="600"/>
 
 
