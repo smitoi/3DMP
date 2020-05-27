@@ -26,8 +26,6 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 
 <img src="images/water-drop-mechanism-2.png" alt="images/water-drop-mechanism-2.png" width="600"/>
 
-The turntable render is found in the 'images' folder as a .mp4.
-
 ### 2. Checkpoint (water-drop-mech.f3d):
 
 * 1. Finish creating all objects ✔️
@@ -35,8 +33,6 @@ The turntable render is found in the 'images' folder as a .mp4.
 * 3. Add appearance ✔️
 
 <img src="images/water-drop-mechanism-1.png" alt="images/water-drop-mechanism-1.png" width="600"/>
-
-The turntable render is found in the 'images' folder as a .mp4.
 
 ### 3. Checkpoint:
 
