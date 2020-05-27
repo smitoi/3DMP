@@ -24,7 +24,7 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 * 1. Divide your project into components ✔️
 * 2. Start sketching and creating the objects ✔️
 
-<img src="images/water-drop-mechanism-1.png" alt="images/water-drop-mechanism-1.png" width="600"/>
+<img src="images/water-drop-mechanism-2.png" alt="images/water-drop-mechanism-2.png" width="600"/>
 
 The turntable render is found in the 'images' folder as a .mp4.
 
@@ -34,7 +34,7 @@ The turntable render is found in the 'images' folder as a .mp4.
 * 2. Add working joints ✔️
 * 3. Add appearance ✔️
 
-<img src="images/water-drop-mechanism-2.png" alt="images/water-drop-mechanism-2.png" width="600"/>
+<img src="images/water-drop-mechanism-1.png" alt="images/water-drop-mechanism-1.png" width="600"/>
 
 The turntable render is found in the 'images' folder as a .mp4.
 
