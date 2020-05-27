@@ -3,7 +3,7 @@
 For my final project I had to model a Water Drop Mechanism using what I learned during the semester. The end resuls should look and work like [this (Water Experiment)](https://www.youtube.com/watch?v=ZqzjAmPFND8) or [this (A Drop of Water)](https://www.youtube.com/watch?v=7Hv85T7mbnE). 
 
 There are 3 .f3d files in the f3ds folder:
-* water-drop-old.f3d - attempt at making the mechanism, there is an explanation at the bottom of the file.
+* water-drop-old.f3d - attempt at making the mechanism, there is an explanation at the bottom of this file.
 * water-drop-mech.f3d - the actual mechanism that I used for most of the pictures below
 * water-drop-mech-style.f3d - this version uses a less blocky appereance, but it's a little bit harder to print (needs supports)
 
@@ -83,7 +83,7 @@ Below are gifs and photos that I took directly from Fusion, some rendered photos
 #### Explanations: 
 * For checkpoint 2 I tried to model it only using the canvases that I made in homework 6. While trying to add joints I figured out that I should start over and measure the objects before I create them. Even with measurements in Fusion, and some calculations made on paper, I had some problems with the circles (fixed them quickly using some tricks with the sketches).
 * There is a slight difference in height between some of the objects in the .f3d project. That's because Fusion and I had some troubles with the Contact Sets, and I had to make them smaller. It doesn't affect the mechanism.
-* The naming convention, because I worked with mirrored object was to make them 1/n, with n being the number of objects in the scene.
+* The naming convention, because I worked with mirrored object was to make them 'm 1/n', with n being the number of objects of type m in the scene.
 
 ---
 ### Resources used:
