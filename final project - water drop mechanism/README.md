@@ -1,55 +1,17 @@
 # Final Project - Water Drop Mechanism (Rapid Prototyping) 
 
-For my final project I had to model a Water Drop Mechanism using what I learned during the semester. The end resuls should look and work like [this (Water Experiment)](https://www.youtube.com/watch?v=ZqzjAmPFND8) or [this (A Drop of Water)](https://www.youtube.com/watch?v=7Hv85T7mbnE). 
+'Seeing how important it is to understand the meaning of Rapid Prototyping, the Final Project consists of creating a prototype of a specific mechanism.'
+
+For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Fustion 360.
 
 There are 3 .f3d files in the f3ds folder:
-* water-drop-old.f3d - attempt at making the mechanism, there is an explanation at the bottom of this file.
-* water-drop-mech.f3d - the actual mechanism that I used for most of the pictures below
-* water-drop-mech-style.f3d - this version uses a less blocky appereance, but it's a little bit harder to print (needs supports)
+* water-drop-old.f3d - attempt at making the mechanism, discontinued since the second checkpoint
+* water-drop-mech.f3d - the basic version of the mechanism
+* water-drop-mech-style.f3d - a polished version of the mechanism, which is less blocky, but may be harder to 3D print
 
-The .stl files can be found in the stls folder. 
+The .stl files can be found in the stls folder. The water-drop-mech-style.f3d can be seen [here](https://a360.co/3d9ciQR).
 
-Below are gifs and photos that I took directly from Fusion, some rendered photos, the mechanism in Prusa Slicer, the checkpoints that I had to reach, with my explanations added near the end, and the resources that I used to make this project.
-
----
-# Media:
-
-## The sketches used to make the mechanism:
-<img src="images/side-view.png" alt="images/side-view.png" width="600"/>
-<img src="images/front-view.png" alt="images/front-view.png" width="600"/>
-<img src="images/top-view.png" alt="images/top-view.png" width="600"/>
-
-
-## The mechanism rendered:
-<img src="images/water-drop-mechanism.png" alt="images/water-drop-mechanism.png" width="600"/>
-
-### The turntable render is found in the 'images' folder as a .mp4.
-
-
-## The mechanism working in Fusion 360:
-<img src="images/gif.gif" alt="images/gif.gif" width="600"/>
-
-### The lag is because I used Contact Sets, and the circles make it harder for the machine to compute the movement.
-
-## Some parts for the mechanism in Prusa:
-<img src="images/prusa1.png" alt="prusa1.png" width="600"/>
-<img src="images/prusa2.png" alt="prusa2.png" width="600"/>
-<img src="images/prusa3.png" alt="prusa3.png" width="600"/>
-
-
-
-
-## Pics that show the work that corresponds to the checkpoints below (names, joints, joints limits, motion study, and components):
-<img src="images/first.png" alt="images/first.png"/>
-<img src="images/second.png" alt="images/second.png"/>
-<img src="images/third.png" alt="images/third.png"/>
-<img src="images/fourth.png" alt="images/fourth.png"/>
-<img src="images/fifth.png" alt="images/fifth.png"/>
-
-## And at last, the pretty version of this mechanism:
-<img src="images/water-drop-pretty.png" alt="images/water-drop-pretty.png" width="600"/>
-
----
+Below are the checkpoints that I had to reach, gifs and photos that I took directly from Fusion, some rendered photos, the mechanism in Prusa Slicer, with my explanations and the resources that I used to make this project added near the end.
 
 # Checkpoints:
 
@@ -77,17 +39,46 @@ Below are gifs and photos that I took directly from Fusion, some rendered photos
 
 ### Bonus:
 * I kept in mind this should be 3D printed. It can be printed and assembled without too much trouble.
-* Made a pretty version of the mechanism (water-drop-mech-style.f3d). Maybe it looks better, but there are some parts that are harder to 3D print.
+* Made the mechanism in a way that makes it easy for the user to modify the movement of the top circles.
 
----
-#### Explanations: 
+
+# Media:
+
+## The sketches used to make the mechanism can be found [here](https://github.com/smitoi/3DMP/tree/master/final%20project/reference%20-%20homework%206)
+
+
+## The basic mechanism rendered:
+<img src="images/water-drop-mechanism.png" alt="images/water-drop-mechanism.png" width="600"/>
+
+#### The turntable render is found in the 'images' folder as a .mp4.
+
+
+## The mechanism working in Fusion 360:
+<img src="images/gif.gif" alt="images/gif.gif" width="600"/>
+
+#### The low framerate is because I used Contact Sets, and the circles make it harder for the machine to compute the movement.
+
+## The mechanism in Prusa:
+<img src="images/prusa1.png" alt="prusa1.png" width="600"/>
+<img src="images/prusa2.png" alt="prusa2.png" width="600"/>
+<img src="images/prusa3.png" alt="prusa3.png" width="600"/>
+
+## And at last, the polished version of this mechanism (I used metallic paint for appearance):
+<img src="images/water-drop-pretty.png" alt="images/water-drop-pretty.png" width="600"/>
+
+
+# Explanations: 
 * For checkpoint 2 I tried to model it only using the canvases that I made in homework 6. While trying to add joints I figured out that I should start over and measure the objects before I create them. Even with measurements in Fusion, and some calculations made on paper, I had some problems with the circles (fixed them quickly using some tricks with the sketches).
 * There is a slight difference in height between some of the objects in the .f3d project. That's because Fusion and I had some troubles with the Contact Sets, and I had to make them smaller. It doesn't affect the mechanism.
 * The naming convention, because I worked with mirrored object was to make them 'm 1/n', with n being the number of objects of type m in the scene.
 
 ---
-### Resources used:
+# Resources used:
 * 3DMP Courses & Labs from Ana & Corina
+* Fusion 360
+* PrusaSlicer
 * [Reddit](http://reddit.com/r/fusion360)
-* [draw.io](draw.io) to draw the meachanism
-* [this](https://www.youtube.com/watch?v=ZqzjAmPFND8) video as a reference
+* [YouTube - Water Experiment](https://www.youtube.com/watch?v=ZqzjAmPFND8) 
+* [YouTube - A Drop of Water](https://www.youtube.com/watch?v=7Hv85T7mbnE)
+* [Thingverse](https://www.thingiverse.com/thing:2542655)
+* [draw.io](draw.io) 
