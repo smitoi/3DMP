@@ -15,6 +15,14 @@ There are 3 .f3d files in the f3ds folder:
 
 The .stl files can be found in the stls folder. The water-drop-mech-style.f3d can be seen [here](https://a360.co/3d9ciQR).
 
+To see the motion you would need to open the .f3d file (water-drop-mech.f3d or water-drop-mech-style.f3d) and use the motion study (rod-rotation).
+
+<img src="images/fifth.png" alt="images/fifth.png">
+
+The joints used are revolute joint for the support circles, and slide joints for the top circles. The support circles are connected with motion links so they can move together.
+
+<img src="images/second.png" alt="images/second.png">
+
 Below are the checkpoints that I had to reach, gifs and photos that I took directly from Fusion, some rendered photos, the mechanism in Prusa Slicer, with my explanations and the resources that I used to make this project added near the end.
 
 # Checkpoints:
