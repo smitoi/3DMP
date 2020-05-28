@@ -2,11 +2,13 @@
 
 'Seeing how important it is to understand the meaning of Rapid Prototyping, the Final Project consists of creating a prototype of a specific mechanism.'
 
-For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Fustion 360. 
+For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Autodesk Fustion 360. 
 
 The idea behind the mechanism can be summarised using this gif:
 
 <img src="https://i.imgur.com/bXBNhVZ.gif" alt="mechanism gif">
+
+The rod rotates and it pushes the top circles up and down. The difference in size and angle between the circles makes the motion to appear wavelike.
 
 There are 3 .f3d files in the f3ds folder:
 * water-drop-old.f3d - attempt at making the mechanism, discontinued since the second checkpoint
@@ -15,7 +17,7 @@ There are 3 .f3d files in the f3ds folder:
 
 The .stl files can be found in the stls folder. The water-drop-mech-style.f3d can be seen [here](https://a360.co/3d9ciQR).
 
-To see the motion you would need to open the .f3d file (water-drop-mech.f3d or water-drop-mech-style.f3d) and use the motion study (rod-rotation).
+To see the motion you would need to open the .f3d file (water-drop-mech.f3d or water-drop-mech-style.f3d) and use the motion study (rod-rotation). 
 
 <img src="images/fifth.png" alt="images/fifth.png">
 
