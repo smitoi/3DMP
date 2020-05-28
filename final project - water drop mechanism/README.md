@@ -101,3 +101,7 @@ The turntable render is found in the 'images' folder as a .mp4.
 * [Thingverse](https://www.thingiverse.com/thing:2542655)
 * [GrabCad](https://grabcad.com/library/water-drop-effect-1)
 * [draw.io](draw.io) 
+
+# Credits:
+* The mechanism is made by me, with the help of the resources linked above
+* There are more version of this thing on the Internet, but my main inspiration is the automata made by  Dean O’Callaghan (linked above in the 'Water Experiment' YouTube video), that was inspired by the work of Reuben Margolin (most likely his round wave sculpture).
