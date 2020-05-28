@@ -58,7 +58,7 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 
 <img src="images/water-drop-mechanism.png" alt="images/water-drop-mechanism.png" width="600"/>
 
-The turntable render is found in the 'images' folder as a .mp4.
+The turntable render is found in the 'images' folder - water-drop-mech.mp4.
 
 ### Bonus:
 * I kept in mind this should be 3D printed. It can be printed and assembled without too much trouble.
@@ -86,6 +86,7 @@ The turntable render is found in the 'images' folder as a .mp4.
 ## The polished version of this mechanism (I used metallic paint for appearance):
 <img src="images/water-drop-pretty.png" alt="images/water-drop-pretty.png" width="600"/>
 
+The turntable render is found in the 'images' folder - water-drop-mech-pretty.mp4.
 
 # Explanations: 
 * For checkpoint 2 I tried to model it only using the canvases that I made in homework 6. While trying to add joints I figured out that I should start over and measure the objects before I create them. Even with measurements in Fusion, and some calculations made on paper, I had some problems with the circles (fixed them quickly using some tricks with the sketches).
