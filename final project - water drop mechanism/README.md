@@ -2,11 +2,13 @@
 
 'Seeing how important it is to understand the meaning of Rapid Prototyping, the Final Project consists of creating a prototype of a specific mechanism.'
 
-For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Fustion 360. 
+For my final project I had to model a Water Drop Mechanism using what I learned during the semester. I choose this mechanism because I saw it before taking the course, and I wanted to design a version of it too. The modeling and rendering was done using Autodesk Fustion 360. 
 
 The idea behind the mechanism can be summarised using this gif:
 
 <img src="https://i.imgur.com/bXBNhVZ.gif" alt="mechanism gif">
+
+The rod rotates and it pushes the top circles up and down. The difference in size and angle between the circles makes the motion to appear wavelike.
 
 There are 3 .f3d files in the f3ds folder:
 * water-drop-old.f3d - attempt at making the mechanism, discontinued since the second checkpoint
@@ -14,6 +16,14 @@ There are 3 .f3d files in the f3ds folder:
 * water-drop-mech-style.f3d - a polished version of the mechanism, which is less blocky, but may be harder to 3D print
 
 The .stl files can be found in the stls folder. The water-drop-mech-style.f3d can be seen [here](https://a360.co/3d9ciQR).
+
+To see the motion you would need to open the .f3d file (water-drop-mech.f3d or water-drop-mech-style.f3d) and use the motion study (rod-rotation). 
+
+<img src="images/fifth.png" alt="images/fifth.png">
+
+The joints used are revolute joint for the support circles, and slide joints for the top circles. The support circles are connected with motion links so they can move together.
+
+<img src="images/second.png" alt="images/second.png">
 
 Below are the checkpoints that I had to reach, gifs and photos that I took directly from Fusion, some rendered photos, the mechanism in Prusa Slicer, with my explanations and the resources that I used to make this project added near the end.
 
@@ -93,3 +103,7 @@ The turntable render is found in the 'images' folder as a .mp4.
 * [Thingverse](https://www.thingiverse.com/thing:2542655)
 * [GrabCad](https://grabcad.com/library/water-drop-effect-1)
 * [draw.io](draw.io) 
+
+# Credits:
+* The mechanism is made by me, with the help of the resources linked above
+* There are more version of this thing on the Internet, but my main inspiration is the automata made by  Dean O’Callaghan (linked above in the 'Water Experiment' YouTube video), that was inspired by the work of Reuben Margolin (most likely his round wave sculpture).
