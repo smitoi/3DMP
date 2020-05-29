@@ -61,7 +61,7 @@ Below are the checkpoints that I had to reach, gifs and photos that I took direc
 The turntable render is found in the 'images' folder - water-drop-mech.mp4.
 
 ### Bonus:
-* I kept in mind this should be 3D printed. It can be printed and assembled without too much trouble.
+* I kept in mind this should be 3D printed. It can be printed and assembled without too much trouble. (I should add some marks or extra objects for assembling too, thanks Andrei & Ana)
 * Made the mechanism in a way that makes it easy for the user to modify the movement of the top circles.
 
 
